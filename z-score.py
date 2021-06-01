@@ -2,6 +2,9 @@
 import pandas as pd
 import numpy as np
 import scipy.stats as stats
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 
 data = np.array([6, 7, 7, 12, 13, 4, 15, 16, 19, 4200])
 
